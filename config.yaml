@@ -1,0 +1,13 @@
+falco: "/home/dr_pepper/data/software/falco/bin/falco"
+umi_tools: "~/data/miniforge3/bin/umi_tools"
+cutadapt: "~/data/miniforge3/bin/cutadapt"
+featureCounts: "/home/dr_pepper/data/miniforge3/bin/featureCounts"
+
+ref_genome: "/home/dr_pepper/data/reference/Homo_sapiens/hisat_3n_AG/GRCh38_AG"
+ref_genome_fa: "/home/dr_pepper/data/reference/Homo_sapiens/sequences/GCA_000001405.15_GRCh38_no_alt_analysis_set.fna"
+
+ref_rRNA: "/home/dr_pepper/data/reference/Homo_sapiens/hisat_3n_AG_rRNA/hisat_3n_AG_rRNA"
+ref_rRNA_fa: "/home/dr_pepper/data/reference/Homo_sapiens/sequences/Homo_sapiens.GRCh38.28S.18S.fa"
+
+chrom_sizes: "~/data/reference/Homo_sapiens/sequences/GRCh38.chrom.sizes"
+ref_hg_genome_gtf: "/home/dr_pepper/data/reference/Homo_sapiens/sequences/GCA_000001405.15_GRCh38_full_analysis_set.refseq_annotation.gtf"
